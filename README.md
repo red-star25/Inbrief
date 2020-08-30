@@ -64,7 +64,7 @@ Or you can follow from the Official Doc.https://flutter.dev/docs/deployment/andr
 
 
 <p>
-<a href="https://play.google.com/store/apps/details?id=com.NakumsDtech.inbreif"><img src="https://lh3.googleusercontent.com/e0Q-zviOOe362MO6Zf4hhbfrCy0xDnVKjc6KocBunPwYKRksIrg_H0Jl00f2oZa_uQ=s360" alt="Waller"></a>
+<a href="https://play.google.com/store/apps/details?id=com.NakumsDtech.inbreif"><img src="https://lh3.googleusercontent.com/e0Q-zviOOe362MO6Zf4hhbfrCy0xDnVKjc6KocBunPwYKRksIrg_H0Jl00f2oZa_uQ=s360" alt="InBrief"></a>
 </p>
 
 ❤ Found this project useful?
@@ -72,5 +72,5 @@ If you found this project useful, then please consider giving it a ⭐ on Github
 
 ### LinkedIn Profile
 <p>
-<a href="https://www.linkedin.com/in/dhruv-nakum-4b1054176/"><img src="https://imageog.flaticon.com/icons/png/512/174/174857.png?size=100x100f&pad=10,10,10,10&ext=png&bg=FFFFFFFF" alt="Waller"></a>
+<a href="https://www.linkedin.com/in/dhruv-nakum-4b1054176/"><img src="https://img.icons8.com/ios-filled/2x/linkedin.png" alt="LinkedIn"></a>
 </p>
