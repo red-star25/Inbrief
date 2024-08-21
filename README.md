@@ -1,3 +1,4 @@
+##### Note: Because to recent policy changes, this project is no longer available on the Play Store.
 # Inbreif - A News App 🔥🔥🔥🔥🔥
 
 ![](https://lh3.googleusercontent.com/C3DP7J5qVfczPRWK0FGR-6laEWpnU58rp1fAIUQs1MJ1GQ6qk2yv-E0NaLJ-mFbw7w)
